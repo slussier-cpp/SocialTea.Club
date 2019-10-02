@@ -4,12 +4,12 @@
         <repository
             path="Utils"
             url="https://github.com/slussier-cpp/Utils.git"
-            branch="master"
-        />
+            />
         <repository
             path="googletest"
             url="https://github.com/google/googletest.git"
             branch="master"
-        />
+            revision="bf0fe874a27bd6c9a4a35b98e662d2d02f8879a2"
+            />
     </repositories>
 </workspace>
